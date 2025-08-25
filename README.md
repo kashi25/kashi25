@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Wrangling, and Model Deployment.**
 
-- 📫 How to reach me: **<Your bken25gourkhali@gmail.com>** | [LinkedIn](https://www.linkedin.com/in/kashi-bhattarai-8535aa1ab/)
+- 📫 How to reach me: **< bken25gourkhali@gmail.com>** | [LinkedIn](https://www.linkedin.com/in/kashi-bhattarai-8535aa1ab/)
 
 - ⚡ Fun fact: **I believe a well-tuned Random Forest can sometimes be the ultimate "secret weapon" before diving into deep learning.**
 

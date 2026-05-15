@@ -1,83 +1,299 @@
-<h1 align="center">Hi 👋, I'm Kashi Bhattarai</h1>
-<h3 align="center">Data Analyst & ML Engineer | Transforming Raw Data into Intelligent Solutions | Passionate about Deep Learning, NLP, and Scalable AI Systems</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Advanced NLP models, LLM fine-tuning, and End-to-End ML Pipeline development.**
+# 👨‍💼 Kashi Bhattarai
 
-- 🌱 I’m currently learning **MLOps, Cloud AI Services (AWS SageMaker, GCP Vertex AI), and Distributed Data Processing with Spark.**
+### 🧠 Senior Data Analyst | 🤖 AI & ML Engineer | 📊 Big Data Specialist | 🚀 Managing Director at Natureamp.com
 
-- 👯 I’m looking to collaborate on **open-source AI projects, innovative computer vision applications, and data-for-good initiatives.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Senior+Data+Analyst+📊;AI+%26+Machine+Learning+Engineer+🤖;Big+Data+Specialist+⚡;Data+Visualization+Expert+📈;LLM+%26+NLP+Researcher+🧠;Managing+Director+at+Natureamp.com+🚀;Building+Intelligent+Systems+Through+Data+🔥" />
 
-- 🤝 I’m looking for help with **scaling machine learning models and optimizing inference latency.**
+<br>
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Wrangling, and Model Deployment.**
+<img src="https://komarev.com/ghpvc/?username=kashi25&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-- 📫 How to reach me: **< bken25gourkhali@gmail.com>** | [LinkedIn](https://www.linkedin.com/in/kashi-bhattarai-8535aa1ab/)
+<br><br>
 
-- ⚡ Fun fact: **I believe a well-tuned Random Forest can sometimes be the ultimate "secret weapon" before diving into deep learning.**
+<img src="https://github-profile-trophy.vercel.app/?username=kashi25&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashi25&label=Profile%20views&color=0e75b6&style=flat" alt="kashi25" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashi25" alt="kashi25" /></a> </p>
+---
 
-### 🛠️ My Data Science & AI Toolkit
+# 💫 About Me
 
-**Programming Languages:**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<img align="right" alt="AI" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F0OHVhOGM4b3B6YTZwdmZ5dW4ybWJ1MjBld3B4c2U2MG1pOXhhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+
+```yaml
+Name: Kashi Bhattarai
+Role: Senior Data Analyst & AI Engineer
+Company: Natureamp.com
+Position: Managing Director 🚀
+
+Specialization:
+  - Artificial Intelligence
+  - Data Science
+  - Big Data Analytics
+  - Machine Learning
+  - Deep Learning
+  - NLP & LLM Systems
+  - Data Visualization
+
+Experience:
+  - Full AI System Architecture
+  - Enterprise Analytics
+  - Large Scale Data Processing
+  - Intelligent Automation
+```
+
+🔥 Passionate about transforming raw data into intelligent, scalable, and impactful solutions.  
+📊 Specialized in Data Analytics, Machine Learning, AI Systems, and Big Data Engineering.  
+🧠 Deep interest in Deep Learning, NLP, LLM Fine-Tuning, and Distributed Computing.  
+🚀 Built a complete **Hotel Management System** independently from architecture to deployment.  
+🏢 Managing Director at **Natureamp.com**, leading innovative software and AI solutions.  
+⚡ Focused on building enterprise-grade systems powered by AI and data-driven decision making.  
+
+---
+
+# 🚀 AI & Data Science Arsenal
+
+# 👨‍💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,java,javascript,cpp,cs" />
 </p>
 
-**Data Manipulation & Analysis:**
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
+---
+
+# 📊 Data Analytics & Data Science
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="55"/>
 </p>
 
-**Data Visualization:**
-<p align="left">
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="40"/> </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a>
+<div align="center">
+
+📈 Advanced Data Analysis  
+📈 Data Cleaning & Wrangling  
+📈 Statistical Modeling  
+📈 Predictive Analytics  
+📈 Business Intelligence  
+📈 Distributed Data Processing  
+
+</div>
+
+---
+
+# 🤖 Machine Learning & Artificial Intelligence
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" width="55"/>
+<img src="https://raw.githubusercontent.com/dmlc/web-data/master/xgboost/image/xgboost_logo.png" width="70"/>
 </p>
 
-**Machine Learning & Deep Learning:**
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dmlc/web-data/89e1d6ce2d32e4e27c3c7d8cc4b1c695d0b7fe89/mxnet/image/xgboost.png" alt="xgboost" width="40" height="40"/> </a>
+<div align="center">
+
+🧠 Machine Learning Models  
+🧠 Deep Learning Systems  
+🧠 Computer Vision  
+🧠 NLP & LLM Fine-Tuning  
+🧠 Recommendation Systems  
+🧠 AI Pipeline Development  
+
+</div>
+
+---
+
+# 📊 Data Visualization Expertise
+
+<p align="center">
+<img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="120"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="60"/>
 </p>
 
-**Big Data & Databases:**
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+<div align="center">
+
+📉 Interactive Dashboards  
+📉 Executive Reporting  
+📉 Real-Time Analytics  
+📉 Visual Storytelling with Data  
+📉 Business Performance Visualization  
+
+</div>
+
+---
+
+# 🗄️ Databases & Big Data Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="60"/>
 </p>
 
-**Deployment & MLOps:**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<div align="center">
+
+⚡ Big Data Processing  
+⚡ Distributed Systems  
+⚡ SQL & NoSQL Databases  
+⚡ ETL Pipelines  
+⚡ Scalable Data Infrastructure  
+
+</div>
+
+---
+
+# ☁️ Cloud, Linux & MLOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,aws,gcp" />
 </p>
 
-### 📈 GitHub Stats & Activity
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashi25&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="kashi25" /></p>
+🐧 Linux System Administration  
+☁️ Cloud AI Services  
+⚡ Dockerized ML Pipelines  
+⚡ MLOps & Deployment  
+⚡ Scalable AI Infrastructure  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashi25&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="kashi25" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashi25&theme=radical&hide_border=true" alt="kashi25" /></p>
+---
 
-### 📊 Recent Development Activity
+# 🏗️ Featured Achievement
 
-<!--START_SECTION:waka-->
-<!-- This section is often populated by a GitHub Action like 'waka-readme-stats'. -->
-*I use Python and Jupyter Notebooks to turn coffee into models.*
-<!--END_SECTION:waka-->
+<div align="center">
+
+## 🏨 Enterprise Hotel Management System
+
+💡 Independently designed and developed a complete Hotel Management System including:
+
+✔️ Full Backend Architecture  
+✔️ Database Design & Optimization  
+✔️ User Management System  
+✔️ Booking & Billing Modules  
+✔️ Analytics & Reporting Dashboard  
+✔️ Deployment & Infrastructure  
+
+🚀 Entire system built single-handedly from scratch.
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+```python
+class KashiBhattarai:
+
+    def __init__(self):
+
+        self.learning = [
+            "Advanced LLM Fine-Tuning",
+            "Distributed AI Systems",
+            "Cloud AI Infrastructure",
+            "MLOps & CI/CD",
+            "Scalable Big Data Systems",
+            "Enterprise AI Solutions"
+        ]
+
+    def mission(self):
+
+        return "Transforming data into intelligent business solutions 🚀"
+
+me = KashiBhattarai()
+
+print(me.mission())
+```
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashi25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashi25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kashi25&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 🧠 Core Expertise
+
+<div align="center">
+
+| 📊 Analytics | 🤖 AI Engineering | ⚡ Infrastructure |
+|---|---|---|
+| Data Visualization | Deep Learning | Linux Systems |
+| Predictive Analytics | NLP & LLMs | Cloud Computing |
+| Business Intelligence | Computer Vision | Docker & MLOps |
+| Big Data Processing | ML Pipelines | Distributed Systems |
+| Statistical Modeling | AI Automation | Scalable Architecture |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/kashi25">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kashi-bhattarai-8535aa1ab/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:bken25gourkhali@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ AI Engineer Terminal
+
+```bash
+#!/usr/bin/python3
+
+while True:
+
+    collect_data()
+    clean_data()
+    train_models()
+    optimize_performance()
+    deploy_ai_systems()
+    repeat()
+
+# Data Never Sleeps 🚀
+```
+
+---
+
+<div align="center">
+
+# 🚀 “Transforming complex data into intelligent systems and scalable innovation.” ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=140&section=footer"/>
+
+</div>

@@ -2,7 +2,7 @@
 
 # 👨‍💼 Kashi Bhattarai
 
-### 🧠 Senior Data Analyst | 🤖 AI & ML Engineer | 📊 Big Data Specialist | 🚀 Managing Director at Natureamp.com
+### 🧠 Senior Data Analyst | 🤖 AI & ML Engineer | 📊 Big Data Specialist | 🚀 Managing Director at Natureamp.com | 🚀 Founder & CEO of Antarchetana AI Labs Private Limited 🧠✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Senior+Data+Analyst+📊;AI+%26+Machine+Learning+Engineer+🤖;Big+Data+Specialist+⚡;Data+Visualization+Expert+📈;LLM+%26+NLP+Researcher+🧠;Managing+Director+at+Natureamp.com+🚀;Building+Intelligent+Systems+Through+Data+🔥" />
 

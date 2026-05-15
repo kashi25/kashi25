@@ -182,6 +182,79 @@ Experience:
 
 🚀 Entire system built single-handedly from scratch.
 
+
+# 📊 Advanced AI & Data Science Projects
+
+## 🤖 AI-Powered Intelligent Systems
+
+🔥 Built multiple AI-powered intelligent systems and automation solutions focused on scalability, analytics, and real-world business applications.
+
+✔️ AI Agents & Intelligent Automation Systems  
+✔️ NLP & LLM-Based Applications  
+✔️ Predictive Analytics Solutions  
+✔️ Automated Decision-Making Systems  
+✔️ End-to-End ML Pipelines  
+✔️ Enterprise AI Integrations  
+
+---
+
+# 📈 Automated Data Visualization Systems
+
+💡 Designed advanced real-time visualization systems transforming raw data into actionable business intelligence.
+
+✔️ Dynamic Data Dashboards  
+✔️ Automated Visualization Pipelines  
+✔️ Real-Time Analytics Systems  
+✔️ Business Intelligence Reporting  
+✔️ Executive-Level Data Storytelling  
+✔️ Interactive KPI Monitoring  
+
+🚀 Turning complex datasets into intelligent visual insights.
+
+---
+
+# 🛒 E-Commerce Ecosystem Development
+
+💡 Independently developed scalable e-commerce platforms with complete backend, analytics, and operational systems.
+
+✔️ Full E-Commerce Architecture  
+✔️ Product & Inventory Management  
+✔️ Order & Delivery Management Systems  
+✔️ Payment Integration Systems  
+✔️ Customer Analytics Dashboards  
+✔️ Real-Time Reporting & Monitoring  
+
+⚡ Complete solo development from planning to deployment.
+
+---
+
+# 🚚 Smart Delivery & Logistics Systems
+
+💡 Engineered intelligent delivery and logistics management systems with automation and analytics integration.
+
+✔️ Delivery Tracking Systems  
+✔️ Route & Order Optimization  
+✔️ Automated Logistics Management  
+✔️ Real-Time Monitoring Dashboards  
+✔️ Data-Driven Operational Insights  
+
+🚀 Scalable infrastructure designed for modern business operations.
+
+---
+
+# 🧠 Big Data & Enterprise Analytics
+
+💡 Specialized in processing, analyzing, and visualizing large-scale enterprise datasets.
+
+✔️ Big Data Processing Pipelines  
+✔️ Distributed Data Systems  
+✔️ Enterprise Analytics Platforms  
+✔️ Business Forecasting Models  
+✔️ Data Warehousing Solutions  
+✔️ AI-Driven Business Intelligence  
+
+⚡ Building intelligent ecosystems powered by data, AI, and scalable architecture.
+
 </div>
 
 ---
